@@ -1,4 +1,4 @@
-# Diabetes-data
+# Project2-Python-DiabtesData-Cleaning-Correlation-Visualization-GraphNetwork
 -Code wrote with python
 -Diabetes data from kaggle. 
 -Goal: The aim of this project is to understaind the relation between the variables of the diabetes data. 
